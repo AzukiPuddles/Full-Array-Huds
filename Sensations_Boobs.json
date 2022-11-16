@@ -1,0 +1,120 @@
+{
+  "name": "Sensations/Boobs",
+  "version": "0.2",
+  "categories": {
+    "Pose": {
+      "button_Hide": {
+        "content": "Hide",
+        "channel": -80085,
+        "command": "boobs hide"
+      },
+      "button_Show": {
+        "content": "Show",
+        "channel": -80085,
+        "command": "boobs show"
+      },
+      "button_Normal": {
+        "content": "Normal",
+        "channel": -80085,
+        "command": "boobs 0"
+      },
+      "button_Implants": {
+        "content": "Implants",
+        "channel": -80085,
+        "command": "boobs 1"
+      },
+      "button_Buckle": {
+        "content": "Buckle",
+        "channel": -80085,
+        "command": "boobs 2"
+      },
+      "button_Press": {
+        "content": "Press",
+        "channel": -80085,
+        "command": "boobs 3"
+      }
+    },
+    "Nipples": {
+      "button_Smol1": {
+        "content": "Smol 1",
+        "channel": -80085,
+        "command": "nipple smol 1"
+      },
+      "button_Smol2": {
+        "content": "Smol 2",
+        "channel": -80085,
+        "command": "nipple smol 2"
+      },
+      "button_Smol3": {
+        "content": "Smol 3",
+        "channel": -80085,
+        "command": "nipple smol 3"
+      },
+      "button_Smol4": {
+        "content": "Smol 4",
+        "channel": -80085,
+        "command": "nipple smol 4"
+      },
+      "button_Huge1": {
+        "content": "Huge 1",
+        "channel": -80085,
+        "command": "nipple huge 1"
+      },
+      "button_Huge2": {
+        "content": "Huge 2",
+        "channel": -80085,
+        "command": "nipple huge 2"
+      },
+      "button_Huge3": {
+        "content": "Huge 3",
+        "channel": -80085,
+        "command": "nipple huge 3"
+      },
+      "button_Huge4": {
+        "content": "Huge 4",
+        "channel": -80085,
+        "command": "nipple huge 4"
+      },
+      "button_Puffy": {
+        "content": "Puffy",
+        "channel": -80085,
+        "command": "nipple puffy"
+      },
+      "button_Invrt1": {
+        "content": "Invert 1",
+        "channel": -80085,
+        "command": "nipple invrt1"
+      },
+      "button_Invrt2": {
+        "content": "Invert 2",
+        "channel": -80085,
+        "command": "nipple invrt2"
+      },
+      "button_Hole0": {
+        "content": "Hole 0",
+        "channel": -80085,
+        "command": "nipple hole 0"
+      },
+      "button_Hole1": {
+        "content": "Hole 1",
+        "channel": -80085,
+        "command": "nipple hole 1"
+      },
+      "toggle_Thrust": {
+        "content": "Thrust",
+        "channel": -80085,
+        "command": "thrust r!~toggle~!"
+      },
+      "button_Cock0": {
+        "content": "Cock 0",
+        "channel": -80085,
+        "command": "nipple cock 0"
+      },
+      "button_Cock1": {
+        "content": "Cock 1",
+        "channel": -80085,
+        "command": "nipple cock 1"
+      }
+    }
+  }
+}
