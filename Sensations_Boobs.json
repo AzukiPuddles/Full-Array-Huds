@@ -2,7 +2,7 @@
   "name": "Sensations/Boobs",
   "version": "0.2",
   "categories": {
-    "Pose": {
+    "States": {
       "button_Hide": {
         "content": "Hide",
         "channel": -80085,
@@ -19,7 +19,7 @@
         "command": "boobs 0"
       },
       "button_Implants": {
-        "content": "Implants",
+        "content": "Implant",
         "channel": -80085,
         "command": "boobs 1"
       },
@@ -100,11 +100,6 @@
         "channel": -80085,
         "command": "nipple hole 1"
       },
-      "toggle_Thrust": {
-        "content": "Thrust",
-        "channel": -80085,
-        "command": "thrust r!~toggle~!"
-      },
       "button_Cock0": {
         "content": "Cock 0",
         "channel": -80085,
@@ -114,6 +109,140 @@
         "content": "Cock 1",
         "channel": -80085,
         "command": "nipple cock 1"
+      }
+    },
+    "Interact": {
+      "toggle_PeeIn": {
+        "content": "Pee In",
+        "channel": -80085,
+        "command": "pee on !~toggle~!"
+      },
+      "slider_CumOn": {
+        "content": "Cum On",
+        "channel": -80085,
+        "command": "cum on !~slider~!",
+        "min": 0,
+        "max": 3,
+        "sliderType": "integer"
+      },
+      "slider_Kiss": {
+        "content": "Kiss",
+        "channel": -80085,
+        "command": "kiss !~slider~!",
+        "min": 0,
+        "max": 6,
+        "sliderType": "integer"
+      },
+      "slider_Hickey": {
+        "content": "Hickey",
+        "channel": -80085,
+        "command": "hickey !~slider~!",
+        "min": 0,
+        "max": 6,
+        "sliderType": "integer"
+      },
+      "slider_Spank": {
+        "content": "Spank",
+        "channel": -80085,
+        "command": "spank !~slider~!",
+        "min": 0,
+        "max": 6,
+        "sliderType": "integer"
+      },
+      "slider_whip": {
+        "content": "Whip",
+        "channel": -80085,
+        "command": "whip !~slider~!",
+        "min": 0,
+        "max": 6,
+        "sliderType": "integer"
+      },
+      "slider_Vampire": {
+        "content": "Vampire",
+        "channel": -80085,
+        "command": "vampire !~slider~!",
+        "min": 0,
+        "max": 6,
+        "sliderType": "integer"
+      },
+      "slider_Pins": {
+        "content": "Pins",
+        "channel": -80085,
+        "command": "pins !~slider~!",
+        "min": 0,
+        "max": 6,
+        "sliderType": "integer"
+      }
+    },
+    "Action": {
+      "toggle_Milk": {
+        "content": "Milk",
+        "channel": -80085,
+        "command": "milk !~toggle~!"
+      },
+      "toggle_Spray": {
+        "content": "Spray",
+        "channel": -80085,
+        "command": "spray !~toggle~!"
+      },
+      "slider_Drool": {
+        "content": "Drool",
+        "channel": -80085,
+        "command": "drool !~slider~!",
+        "min": 0,
+        "max": 5,
+        "sliderType": "integer"
+      },
+      "slider_Stretch": {
+        "content": "Stretch",
+        "channel": -80085,
+        "command": "stretch !~slider~!",
+        "min": 0,
+        "max": 3,
+        "sliderType": "integer"
+      },
+      "toggle_ThrustL": {
+        "content": "Thrust L",
+        "channel": -80085,
+        "command": "thrust l !~toggle~!"
+      },
+      "toggle_ThrustR": {
+        "content": "Thrust R",
+        "channel": -80085,
+        "command": "thrust r !~toggle~!"
+      },
+      "toggle_Chain": {
+        "content": "Chain",
+        "channel": -80085,
+        "command": "attachchain !~toggle~!"
+      }
+    },
+    "Pump": {
+      "toggle_MilkPump": {
+        "content": "Pump",
+        "channel": -80085,
+        "command": "pump !~toggle~!"
+      },
+      "toggle_DrawHolster": {
+        "content": "Draw / Holster",
+        "channel": -80085,
+        "command_on": "draw",
+        "command_off": "holster"
+      },
+      "toggle_DamageBullets": {
+        "content": "Damage",
+        "channel": -80085,
+        "command": "damage !~toggle~!"
+      },
+      "toggle_InfiniteAmmo": {
+        "content": "Infinite",
+        "channel": -80085,
+        "command": "ammo infinite !~toggle~!"
+      },
+      "toggle_TriggerSwitch": {
+        "content": "Trigger",
+        "channel": -80085,
+        "command": "trigger switch !~toggle~!"
       }
     }
   }
