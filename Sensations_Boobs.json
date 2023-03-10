@@ -38,42 +38,42 @@
       "button_Smol1": {
         "content": "Smol 1",
         "channel": -80085,
-        "command": "nipple smol 1"
+        "command": "nipple smol1"
       },
       "button_Smol2": {
         "content": "Smol 2",
         "channel": -80085,
-        "command": "nipple smol 2"
+        "command": "nipple smol2"
       },
       "button_Smol3": {
         "content": "Smol 3",
         "channel": -80085,
-        "command": "nipple smol 3"
+        "command": "nipple smol3"
       },
       "button_Smol4": {
         "content": "Smol 4",
         "channel": -80085,
-        "command": "nipple smol 4"
+        "command": "nipple smol4"
       },
       "button_Huge1": {
         "content": "Huge 1",
         "channel": -80085,
-        "command": "nipple huge 1"
+        "command": "nipple huge1"
       },
       "button_Huge2": {
         "content": "Huge 2",
         "channel": -80085,
-        "command": "nipple huge 2"
+        "command": "nipple huge2"
       },
       "button_Huge3": {
         "content": "Huge 3",
         "channel": -80085,
-        "command": "nipple huge 3"
+        "command": "nipple huge3"
       },
       "button_Huge4": {
         "content": "Huge 4",
         "channel": -80085,
-        "command": "nipple huge 4"
+        "command": "nipple huge4"
       },
       "button_Puffy": {
         "content": "Puffy",
@@ -93,27 +93,27 @@
       "button_Hole0": {
         "content": "Hole 0",
         "channel": -80085,
-        "command": "nipple hole 0"
+        "command": "nipple hole0"
       },
       "button_Hole1": {
         "content": "Hole 1",
         "channel": -80085,
-        "command": "nipple hole 1"
+        "command": "nipple hole1"
       },
       "button_Cock0": {
         "content": "Cock 0",
         "channel": -80085,
-        "command": "nipple cock 0"
+        "command": "nipple cock0"
       },
       "button_Cock1": {
         "content": "Cock 1",
         "channel": -80085,
-        "command": "nipple cock 1"
+        "command": "nipple cock1"
       }
     },
     "Interact": {
       "toggle_PeeIn": {
-        "content": "Pee In",
+        "content": "Pee On",
         "channel": -80085,
         "command": "pee on !~toggle~!"
       },
@@ -149,7 +149,7 @@
         "max": 6,
         "sliderType": "integer"
       },
-      "slider_whip": {
+      "slider_Whip": {
         "content": "Whip",
         "channel": -80085,
         "command": "whip !~slider~!",
