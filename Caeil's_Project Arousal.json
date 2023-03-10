@@ -4,98 +4,98 @@
   "catagories": {
     "Arousal": {
       "button_ArousalLevel1": {
-        "content": "Level1",
+        "content": "PA_Level_1.svg",
         "channel": -237593,
         "command": "!~uuidTarget~!|setArousal1"
       },
       "button_ArousalLevel2": {
-        "content": "Level2",
+        "content": "PA_Level_2.svg",
         "channel": -237593,
         "command": "!~uuidTarget~!|setArousal2"
       },
       "button_ArousalLevel3": {
-        "content": "Level3",
+        "content": "PA_Level_3.svg",
         "channel": -237593,
         "command": "!~uuidTarget~!|setArousal3"
       },
       "button_ArousalVolDown": {
-        "content": "Negative",
+        "content": "[[icon_volumeDown]]",
         "channel": 6400,
         "command": "ArousalBreatheVolumeDecrease"
       },
       "button_ArousalVolUp": {
-        "content": "Positive",
+        "content": "[[icon_volumeUp]]",
         "channel": 6400,
         "command": "ArousalBreatheVolumeIncrease"
       }
     },
     "Moan": {
       "button_MoanLevel1": {
-        "content": "Level1",
+        "content": "PA_Level_1.svg",
         "channel": -6349633,
         "command": "arousalForceMoan!~uuidTarget~!|1"
       },
       "button_MoanLevel2": {
-        "content": "Level2",
+        "content": "PA_Level_2.svg",
         "channel": -6349633,
         "command": "arousalForceMoan!~uuidTarget~!|2"
       },
       "button_MoanLevel3": {
-        "content": "Level3",
+        "content": "PA_Level_3.svg",
         "channel": -6349633,
         "command": "arousalForceMoan!~uuidTarget~!|3"
       },
       "button_MoanVolDown": {
-        "content": "Negative",
+        "content": "[[icon_volumeDown]]",
         "channel": 6400,
         "command": "ArousalMoanVolumeDecrease"
       },
       "button_MoanVolUp": {
-        "content": "Positive",
+        "content": "[[icon_volumeUp]]",
         "channel": 6400,
         "command": "ArousalMoanVolumeIncrease"
       }
     },
     "Climax": {
       "button_ClimaxStandingOrgasmForward": {
-        "content": "Standing",
+        "content": "PA_Orgasm_Standing.svg",
         "channel": -6349633,
         "command": "arousalForceOrgasm!~uuidTarget~!|1"
       },
       "button_ClimaxFloorSuperOrgasmOnBack": {
-        "content": "OnBack",
+        "content": "PA_Orgasm_OnBack.svg",
         "channel": -6349633,
         "command": "arousalForceOrgasm!~uuidTarget~!|2"
       },
       "button_ClimaxFloorSuperOrgasmForward": {
-        "content": "OnKnees",
+        "content": "PA_Orgasm_OnKnees.svg",
         "channel": -6349633,
         "command": "arousalForceOrgasm!~uuidTarget~!|3"
       },
       "button_ClimaxVolDown": {
-        "content": "Negative",
+        "content": "[[icon_volumeDown]]",
         "channel": 6400,
         "command": "ArousalOrgasmVolumeDecrease"
       },
       "button_ClimaxVolUp": {
-        "content": "Positive",
+        "content": "[[icon_volumeUp]]",
         "channel": 6400,
         "command": "ArousalOrgasmVolumeIncrease"
       }
     },
     "Super Climax": {
       "button_SClimaxStandingSuperOrgasmForward": {
-        "content": "Standing",
+        "content": "PA_Orgasm_Standing.svg",
         "channel": -6349633,
         "command": "arousalForceOrgasm!~uuidTarget~!|1|super"
       },
       "button_SClimaxFloorSuperOrgasmOnBack": {
-        "content": "OnBack",
+        "content": "PA_Orgasm_OnBack.svg",
         "channel": -6349633,
         "command": "arousalForceOrgasm!~uuidTarget~!|2|super"
       },
       "button_SClimaxFloorSuperOrgasmForward": {
-        "content": "OnKnees",
+        "content": "PA_Orgasm_OnKnees.svg",
         "channel": -6349633,
         "command": "arousalForceOrgasm!~uuidTarget~!|3|super"
       }

@@ -1,6 +1,6 @@
 {
   "name": "Sensations/Ass",
-  "version": "0.2",
+  "version": "0.3",
   "categories": {
     "Pose": {
       "button_Hide": {
@@ -111,7 +111,7 @@
       "slider_Creampie": {
         "content": "Creampie",
         "channel": -17487,
-        "command": "creampie !~slider~! ",
+        "command": "creampie !~slider~!",
         "min": 0,
         "max": 3,
         "sliderType": "integer"
@@ -121,7 +121,7 @@
       "slider_CumOn": {
         "content": "Cum On",
         "channel": -17487,
-        "command": "cum on !~slider~! ",
+        "command": "cum on !~slider~!",
         "min": 0,
         "max": 3,
         "sliderType": "integer"
@@ -129,7 +129,7 @@
       "slider_Kisses": {
         "content": "Kisses",
         "channel": -17487,
-        "command": "kiss !~slider~! ",
+        "command": "kiss !~slider~!",
         "min": 0,
         "max": 6,
         "sliderType": "integer"
@@ -137,7 +137,7 @@
       "slider_Spank": {
         "content": "Creampie",
         "channel": -17487,
-        "command": "spanks !~slider~! ",
+        "command": "spanks !~slider~!",
         "min": 0,
         "max": 6,
         "sliderType": "integer"
@@ -145,7 +145,7 @@
       "slider_Whip": {
         "content": "Creampie",
         "channel": -17487,
-        "command": "whip !~slider~! ",
+        "command": "whip !~slider~!",
         "min": 0,
         "max": 6,
         "sliderType": "integer"
