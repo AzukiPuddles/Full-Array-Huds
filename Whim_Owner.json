@@ -1,0 +1,101 @@
+{
+  "name": "Whim/Owner",
+  "version": "0.1",
+  "categories": {
+    "Main": {
+      "button_MainMenu": {
+        "content": "Menu",
+        "channel": 92746,
+        "command": "whimownerhudwhim"
+      },
+      "button_Closet": {
+        "content": "Closet",
+        "channel": 92746,
+        "command": "whimownerhudcloset"
+      },
+      "button_Anims": {
+        "content": "Anims",
+        "channel": 92746,
+        "command": "whimownerhudanims"
+      }
+    },
+    "RLV": {
+      "button_RLV": {
+        "content": "Menu",
+        "channel": 92746,
+        "command": "whimownerhudrlv"
+      },
+      "button_Relay": {
+        "content": "Relay",
+        "channel": 92746,
+        "command": "whimownerhudrelay"
+      },
+      "toggle_Lock": {
+        "content": "Lock",
+        "channel": 92746,
+        "command_on": "whimownerhudlock",
+        "command_off": "whimownerhudunlock"
+      }
+    },
+    "Add-Ons": {
+      "button_AddonMenu": {
+        "content": "Menu",
+        "channel": 92746,
+        "command": "whimownerhudaddons"
+      },
+      "button_Cuffs": {
+        "content": "Cuffs",
+        "channel": 92746,
+        "command": "whimownerhudcuffs"
+      },
+      "button_Speech": {
+        "content": "Speech",
+        "channel": 92746,
+        "command": "whimownerhudspeech"
+      }
+    },
+    "Controls": {
+      "toggle_Follow": {
+        "content": "Follow",
+        "channel": 92746,
+        "command_on": "whimownerhudfollow",
+        "command_off": "whimownerhudunfollow"
+      },
+      "button_Yank": {
+        "content": "Yank",
+        "channel": 92746,
+        "command": "whimownerhudyank"
+      },
+      "button_Sit": {
+        "content": "Sit",
+        "channel": 92746,
+        "command": "whimownerhudsit"
+      },
+      "button_Stand": {
+        "content": "Stand",
+        "channel": 92746,
+        "command": "whimownerhudstand"
+      }
+    },
+    "Visibility": {
+      "toggle_AccessoriesVisibility": {
+        "content": "Accessories",
+        "channel": 92746,
+        "command_on": "whimownerhudshow",
+        "command_off": "whimownerhudhide"
+      },
+      "toggle_CuffsVisibility": {
+        "content": "Cuffs",
+        "channel": 92746,
+        "command_on": "whimownerhudcuffshow",
+        "command_off": "whimownerhudcuffhide"
+      },
+      "toggle_SpeechVisibility": {
+        "content": "Speech",
+        "channel": 92746,
+        "command_on": "whimownerhudspeechshow",
+        "command_off": "whimownerhudspeechhide"
+      }
+    }
+  }
+}
