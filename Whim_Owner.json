@@ -8,19 +8,24 @@
         "channel": 92746,
         "command": "whimownerhudwhim"
       },
-      "button_Closet": {
-        "content": "Closet",
+      "button_Access": {
+        "content": "Access",
         "channel": 92746,
-        "command": "whimownerhudcloset"
+        "command": "whimownerhudaccess"
       },
       "button_Anims": {
         "content": "Anims",
         "channel": 92746,
         "command": "whimownerhudanims"
+      },
+      "button_Closet": {
+        "content": "Closet",
+        "channel": 92746,
+        "command": "whimownerhudcloset"
       }
     },
     "RLV": {
-      "button_RLV": {
+      "button_RLVMenu": {
         "content": "Menu",
         "channel": 92746,
         "command": "whimownerhudrlv"
