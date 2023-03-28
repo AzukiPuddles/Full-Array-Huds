@@ -6,57 +6,67 @@
       "button_MainMenu": {
         "content": "Menu",
         "channel": 92746,
-        "command": "whimownerhudwhim"
+        "command": "whimownerhudwhim",
+        "ownerOnly": true
       },
       "button_Access": {
         "content": "Access",
         "channel": 92746,
-        "command": "whimownerhudaccess"
+        "command": "whimownerhudaccess",
+        "ownerOnly": true
       },
       "button_Anims": {
         "content": "Anims",
         "channel": 92746,
-        "command": "whimownerhudanims"
+        "command": "whimownerhudanims",
+        "ownerOnly": true
       },
       "button_Closet": {
         "content": "Closet",
         "channel": 92746,
-        "command": "whimownerhudcloset"
+        "command": "whimownerhudcloset",
+        "ownerOnly": true
       }
     },
     "RLV": {
       "button_RLVMenu": {
         "content": "Menu",
         "channel": 92746,
-        "command": "whimownerhudrlv"
+        "command": "whimownerhudrlv",
+        "ownerOnly": true
       },
       "button_Relay": {
         "content": "Relay",
         "channel": 92746,
-        "command": "whimownerhudrelay"
+        "command": "whimownerhudrelay",
+        "ownerOnly": true
       },
       "toggle_Lock": {
         "content": "Lock",
         "channel": 92746,
         "command_on": "whimownerhudlock",
-        "command_off": "whimownerhudunlock"
+        "command_off": "whimownerhudunlock",
+        "ownerOnly": true
       }
     },
     "Add-Ons": {
       "button_AddonMenu": {
         "content": "Menu",
         "channel": 92746,
-        "command": "whimownerhudaddons"
+        "command": "whimownerhudaddons",
+        "ownerOnly": true
       },
       "button_Cuffs": {
         "content": "Cuffs",
         "channel": 92746,
-        "command": "whimownerhudcuffs"
+        "command": "whimownerhudcuffs",
+        "ownerOnly": true
       },
       "button_Speech": {
         "content": "Speech",
         "channel": 92746,
-        "command": "whimownerhudspeech"
+        "command": "whimownerhudspeech",
+        "ownerOnly": true
       }
     },
     "Controls": {
@@ -64,22 +74,26 @@
         "content": "Follow",
         "channel": 92746,
         "command_on": "whimownerhudfollow",
-        "command_off": "whimownerhudunfollow"
+        "command_off": "whimownerhudunfollow",
+        "ownerOnly": true
       },
       "button_Yank": {
         "content": "Yank",
         "channel": 92746,
-        "command": "whimownerhudyank"
+        "command": "whimownerhudyank",
+        "ownerOnly": true
       },
       "button_Sit": {
         "content": "Sit",
         "channel": 92746,
-        "command": "whimownerhudsit"
+        "command": "whimownerhudsit",
+        "ownerOnly": true
       },
       "button_Stand": {
         "content": "Stand",
         "channel": 92746,
-        "command": "whimownerhudstand"
+        "command": "whimownerhudstand",
+        "ownerOnly": true
       }
     },
     "Visibility": {
@@ -87,19 +101,22 @@
         "content": "Accessories",
         "channel": 92746,
         "command_on": "whimownerhudshow",
-        "command_off": "whimownerhudhide"
+        "command_off": "whimownerhudhide",
+        "ownerOnly": true
       },
       "toggle_CuffsVisibility": {
         "content": "Cuffs",
         "channel": 92746,
         "command_on": "whimownerhudcuffshow",
-        "command_off": "whimownerhudcuffhide"
+        "command_off": "whimownerhudcuffhide",
+        "ownerOnly": true
       },
       "toggle_SpeechVisibility": {
         "content": "Speech",
         "channel": 92746,
         "command_on": "whimownerhudspeechshow",
-        "command_off": "whimownerhudspeechhide"
+        "command_off": "whimownerhudspeechhide",
+        "ownerOnly": true
       }
     }
   }
