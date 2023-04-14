@@ -144,7 +144,7 @@
         "channel": 5,
         "command": "vag pee"
       },
-      "button_VagPeeInside": {
+      "button_VagPeeDrip": {
         "content": "Pee Drip",
         "channel": 5,
         "command": "vag dpee"
