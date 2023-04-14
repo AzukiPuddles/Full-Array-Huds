@@ -1,7 +1,7 @@
 {
   "name": "Caeil’s/Project Arousal",
   "version": "0.2",
-  "catagories": {
+  "categories": {
     "Arousal": {
       "button_ArousalLevel1": {
         "content": "PA_Level_1.svg",

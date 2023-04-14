@@ -62,43 +62,43 @@
       }
     },
     "Action": {
-      "button_Cum":{
-        "content":"Cum",
-        "channel":-13487,
-        "command":"cum"
-      }
-      "button_Squirt":{
-        "content":"Squirt",
-        "channel":-13487,
-        "command":"squirt"
-      }
-      "button_Pee":{
-        "content":"Pee",
-        "channel":-13487,
-        "command":"pee"
-      }
-      "button_Bleed":{
-        "content":"Bleed",
-        "channel":-13487,
-        "command":"bleed"
+      "button_Cum": {
+        "content": "Cum",
+        "channel": -13487,
+        "command": "cum"
       },
-      "toggle_Wet":{
+      "button_Squirt": {
+        "content": "Squirt",
+        "channel": -13487,
+        "command": "squirt"
+      },
+      "button_Pee": {
+        "content": "Pee",
+        "channel": -13487,
+        "command": "pee"
+      },
+      "button_Bleed": {
+        "content": "Bleed",
+        "channel": -13487,
+        "command": "bleed"
+      },
+      "toggle_Wet": {
         "content": "Wet",
-        "channel":-13487,
-        "command_on":"wet on",
-        "command_off":"wet off"
+        "channel": -13487,
+        "command_on": "wet on",
+        "command_off": "wet off"
       },
-      "toggle_CumDrip":{
+      "toggle_CumDrip": {
         "content": "Drip",
-        "channel":-13487,
-        "command_on":"drip on",
-        "command_off":"drip off"
+        "channel": -13487,
+        "command_on": "drip on",
+        "command_off": "drip off"
       },
-      "toggle_Creampie":{
+      "toggle_Creampie": {
         "content": "Creampie",
-        "channel":-13487,
-        "command_on":"creampie on",
-        "command_off":"creampie off"
+        "channel": -13487,
+        "command_on": "creampie on",
+        "command_off": "creampie off"
       }
     }
   }
