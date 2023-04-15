@@ -1,22 +1,22 @@
 {
   "name": "Caeil’s/Project Arousal",
-  "version": "0.2",
+  "version": "0.3",
   "categories": {
     "Arousal": {
       "button_ArousalLevel1": {
         "content": "PA_Level_1.svg",
         "channel": -237593,
-        "command": "!~uuidTarget~!|setArousal1"
+        "command": "!~uuidTarget~!setArousal1"
       },
       "button_ArousalLevel2": {
         "content": "PA_Level_2.svg",
         "channel": -237593,
-        "command": "!~uuidTarget~!|setArousal2"
+        "command": "!~uuidTarget~!setArousal2"
       },
       "button_ArousalLevel3": {
         "content": "PA_Level_3.svg",
         "channel": -237593,
-        "command": "!~uuidTarget~!|setArousal3"
+        "command": "!~uuidTarget~!setArousal3"
       },
       "button_ArousalVolDown": {
         "content": "[[icon_volumeDown]]",
